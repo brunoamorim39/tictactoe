@@ -1,0 +1,1 @@
+The goal of this project is to emulate a game of tic tac toe.
